@@ -1,4 +1,7 @@
 # maya_mel_BlendNormals
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/PiscesWorkshop)
+
+
 < Modering / Setup >
 
 Average the vertex normals to remove the boundary between the two objects.
